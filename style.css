@@ -1,0 +1,25 @@
+body{
+    background-color:lightblue;
+}
+.ipponimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Loginform{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   text-align: center;
+   padding: 20px;
+   width: 200px;
+}
+p{
+ text-align:center;
+
+}
+
+.button{
+    color: black;
+}
